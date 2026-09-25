@@ -127,9 +127,9 @@ void main() {
     String move2 = getMove(player2);
 
     // Show the moves.
-    print('');
-    print('$player1 chose $move1.');
-    print('$player2 chose $move2.');
+  print('$player1 chose $move1.');
+  print('$player2 chose $move2.');
+  print('');
 
     // Decide the winner.
     String? winner = decideWinner(
