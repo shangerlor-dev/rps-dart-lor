@@ -96,6 +96,7 @@ void showFinalScore(
   }
 }
 
+//runs the rock, paper, scissors game.
 void main() {
 
   print('==============================');
