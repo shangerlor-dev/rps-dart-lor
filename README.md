@@ -1,22 +1,15 @@
-# Two-Player Rock, Paper, Scissors in Dart
+# Rock, Paper, Scissors in Dart
 
-**Name:** Shanger S. Lor
+## Student Information
 
-**Course/Year/Section:** BSIT/3rd Year/ICLX3
+**Name:** Shanger S. Lor  
+**Course/Year/Section:** BSIT-2B/3rd Year/ICLX3
 
----
+## Description
 
-# PART 3 — Git
+A console-based two-player Rock, Paper, Scissors game written in Dart.
 
-The instructor specifically requires:
-
-### At least 3 commits
-
-For example:
-
-**Commit 1**
-```bash
-git commit -m "Add basic Rock Paper Scissors game"
+The game allows two players to enter their names and choose rock, paper, or scissors. It keeps track of the score and allows players to play multiple rounds.
 
 ## How to Run
 
