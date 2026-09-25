@@ -9,7 +9,7 @@
 
 A console-based two-player Rock, Paper, Scissors game written in Dart.
 
-The game allows two players to enter their names and choose rock, paper, or scissors. It keeps track of the score and allows players to play multiple rounds.
+The game allows two players to enter their names, select rock, paper, or scissors, and compete against each other. It validates player inputs, determines the winner of each round, keeps track of the scores, and allows players to continue playing multiple rounds.
 
 ## How to Run
 
